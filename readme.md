@@ -80,6 +80,8 @@ vai precisar do header Authorization: com o token jwt
 
 # !Dica Caso precise a rota '/docs' pode ajudar.
 
+# rodar projeto comando  uvicorn main:app --reload
+
 
 
 
