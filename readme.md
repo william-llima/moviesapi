@@ -82,6 +82,8 @@ vai precisar do header Authorization: com o token jwt
 
 # rodar projeto comando  uvicorn main:app --reload
 
+### Aplicação para consumo https://github.com/william-llima/genericflix/tree/main.
+
 
 
 
